@@ -1,1 +1,1 @@
-Implementing the Redux-store usinf react-js
+Implementing the Redux-store using react-js
